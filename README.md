@@ -1,6 +1,6 @@
 ### :information_source: Descritption 
 
-[Go to notebook](https://github.com/horaclito/DataScience-Projects/tree/master/BAIRES_project)
+[Go to notebook](https://github.com/iseka-dev/DataScience-Projects/tree/master/BAIRES_project/HousePricing_BsAs.ipynb)
 
 The project can be considered at three stages.
 
