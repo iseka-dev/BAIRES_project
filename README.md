@@ -1,4 +1,4 @@
-#### Descritption  :information_source:
+### :information_source: Descritption 
 
 The project can be considered at three stages.
 
@@ -10,9 +10,9 @@ Finally, the **models can predict price of properties** with an estimated error 
 
 Skills developed: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, DecisionTreeRegressor, KNeighbours, Pandas, Numpy
 
-"Datos provistos por <a href='https://www.properati.com.ar/data'>Properati</a>"
+*Datos provistos por <a href='https://www.properati.com.ar/data'>Properati</a>*
 
-#### Dataset attributes :telescope:
+### :telescope: Dataset attributes
 
 * id: property id
 * created_on: when property was uploaded to the website
@@ -33,7 +33,7 @@ Skills developed: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, De
 * properati_url: url of publication in Properati
 
 
-#### Atributos del dataset: :telescope:
+### :telescope: Atributos del dataset: 
 
 * id: id de la propiedad
 * created_on: fecha en la que la propiedad ingresó al sitio
