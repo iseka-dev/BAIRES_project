@@ -1,5 +1,7 @@
 ### :information_source: Descritption 
 
+[Go to notebook](https://github.com/horaclito/DataScience-Projects/tree/master/BAIRES_project)
+
 The project can be considered at three stages.
 
 1. First, **preprocessing**. The dataset is cleaned and prepared (Droping columns and rows with missing or null values, calulating and imputing data wisely to not generate a bias in the model then).
