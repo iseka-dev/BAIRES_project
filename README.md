@@ -33,7 +33,7 @@ Skills developed: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, De
 * properati_url: url of publication in Properati
 
 
-**** Atributos del dataset: **** :telescope:
+****Atributos del dataset:**** :telescope:
 
 * id: id de la propiedad
 * created_on: fecha en la que la propiedad ingresó al sitio
