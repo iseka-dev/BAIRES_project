@@ -1,0 +1,2 @@
+# ignore temporary files from jupyter notebook
+/.ipynb.checkpoints
