@@ -1,4 +1,4 @@
-[:es: Ir a versión en Español](https://github.com/iseka-dev/DataScience-Projects/blob/master/BAIRES_project/README.sp.md)
+[:es: Versión en Español](https://github.com/iseka-dev/DataScience-Projects/blob/master/BAIRES_project/README.sp.md)
 
 ### BAIRES Project   :chart_with_upwards_trend:
 #### Analysis and prediction of the real state market in Buenos Aires
