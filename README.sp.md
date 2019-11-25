@@ -1,4 +1,4 @@
-[:uk: Go to English version](https://github.com/iseka-dev/DataScience-Projects/new/master/BAIRES_project/README.md)
+[:uk: Go to English version](https://github.com/iseka-dev/DataScience-Projects/blob/master/BAIRES_project/README.md)
 
 ### Proyecto BAIRES  :chart_with_upwards_trend:
 #### Análisis y predicción del mercado inmobiliario en Ciudad Autónoma de Buenos Aires
