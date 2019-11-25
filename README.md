@@ -2,7 +2,7 @@
 
 ### BAIRES Project   :chart_with_upwards_trend:
 #### Analysis and prediction of the real state market in Buenos Aires
-[Go to notebook](https://github.com/iseka-dev/DataScience-Projects/tree/master/BAIRES_project/HousePricing_BsAs.ipynb)
+[Click here to go to the notebook](https://github.com/iseka-dev/DataScience-Projects/tree/master/BAIRES_project/HousePricing_BsAs.ipynb)
 
 ### :information_source: Description 
 
