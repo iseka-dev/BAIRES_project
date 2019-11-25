@@ -5,7 +5,7 @@
 The project can be considered at three stages.
 
 1. First, **preprocessing**. The dataset is cleaned and prepared (Droping columns and rows with missing or null values, calulating and imputing data wisely to not generate a bias in the model then).
-2. Then, **price and location** of properties in CABA and GRAN BUENOS AIRES is **analysed**. Cheapest and most expensive neighborhood are identified. Also, it is shown that real locations and published locations mismatch a lot of times, and most of times *published location correspond with more expensive areas*.
+2. Then, **price and location** of properties in Ciudad Autonoma de Buenos Aires (CABA) is **analysed**. Cheapest and most expensive neighborhood are identified. Also, it is shown that real locations and published locations mismatch a lot of times, and most of times *published location correspond with more expensive areas*.
 3. At stage 3 remaining preprocessing is done and **binaries** are created. Then two models are trained: **DecisionTreeRegressor** and **KNeighbours**. A test set was curated for final evaluation, while train set was partitioned in several manners for evaluation: with simple *train_test_split*, and with *Kfold* implementation. *GridSearch* was used for **optimization**. And **root mean square error** (RMSE) was adopted as error measure.
 
 Finally, the **models can predict price of properties** with an estimated error of +/-$ 40000 (depending de model)
