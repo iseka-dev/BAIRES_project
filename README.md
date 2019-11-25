@@ -1,6 +1,10 @@
-### :information_source: Descritption 
+[:es: README.md in Spanish](https://github.com/iseka-dev/DataScience-Projects/new/master/BAIRES_project/README.sp.md)
 
+### BAIRES Project   :chart_with_upwards_trend:
+#### Analysis and prediction of the real state market in Buenos Aires
 [Go to notebook](https://github.com/iseka-dev/DataScience-Projects/tree/master/BAIRES_project/HousePricing_BsAs.ipynb)
+
+### :information_source: Description 
 
 The project can be considered at three stages.
 
@@ -10,9 +14,9 @@ The project can be considered at three stages.
 
 Finally, the **models can predict price of properties** with an estimated error of +/-$ 40000 (depending de model)
 
-Skills developed: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, DecisionTreeRegressor, KNeighbours, Pandas, Numpy
+Skills: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, DecisionTreeRegressor, KNeighbours, Pandas, Numpy
 
-*Datos provistos por <a href='https://www.properati.com.ar/data'>Properati</a>*
+*Datos provided by <a href='https://www.properati.com.ar/data'>Properati</a>*
 
 ### :telescope: Dataset attributes
 
@@ -33,26 +37,3 @@ Skills developed: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, De
 * expenses: exenses (if appropriate)
 * barrio: neighborhood in agrreement with official charts.
 * properati_url: url of publication in Properati
-
-
-### :telescope: Atributos del dataset: 
-
-* id: id de la propiedad
-* created_on: fecha en la que la propiedad ingresó al sitio
-* operation: alquiler (rent) o venta (sell)
-* property_type: tipo de propiedad (casa, departamento, ph, etcétera)
-* place_with_parent_names: nombre del lugar donde se encuentra la propiedad según el publicador
-* lat-lon: coordenadas concatenadas
-* lat: latitud
-* lon: longitud
-* price: precio en la moneda especificada en currency
-* currency: divisa en la que está expresada la publicación
-* price_aprox_usd: precio aproximado en dólares estadounidenses
-* surface_total_in_m2: superficie total (en metros cuadrados)
-* surface_covered_in_m2: superficie cubierta (en metros cuadrados)
-* price_usd_per_m2: precio por metro cuadrado en dólares (precio dólares / superficie)
-* floor: número de piso (si corresponde)
-* rooms: cantidad de ambientes
-* expenses: expensas (si corresponde)
-* barrio: barrio según cartografía oficial
-* properati_url: url de la publicación en Properati
