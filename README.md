@@ -1,8 +1,8 @@
-[:es: Versión en Español](https://github.com/iseka-dev/DataScience-Projects/blob/master/BAIRES_project/README.sp.md)
+[:es: Versión en Español](https://github.com/iseka-dev/baires-project/blob/master/README.sp.md)
 
 ### BAIRES Project   :chart_with_upwards_trend:
 #### Analysis and prediction of the real-estate market in Buenos Aires
-[Click here to go to the notebook](https://github.com/iseka-dev/DataScience-Projects/tree/master/BAIRES_project/HousePricing_BsAs.ipynb)
+[Click here to go to the notebook](https://github.com/iseka-dev/baires-project/blob/master/HousePricing_BsAs.ipynb)
 
 ### :information_source: Description 
 
