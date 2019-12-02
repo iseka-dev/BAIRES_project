@@ -39,3 +39,5 @@ Skills: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, DecisionTree
 * expenses: expensas (si corresponde)
 * barrio: barrio según cartografía oficial
 * properati_url: url de la publicación en Properati
+
+ :arrow_right: Este proyecto fue desarrollado en el marco del curso de DATA SCIENCE de ACAMICA.
