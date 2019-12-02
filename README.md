@@ -38,4 +38,4 @@ Skills: Python, Scikit-learn, Matplotlib, Seaborn, Crossvalidation, DecisionTree
 * barrio: neighborhood in agrreement with official charts.
 * properati_url: url of publication in Properati
 
- :arrow_right: This project was developes as an activity of the ACAMICA DATA SCIENCE COURSE
+ :arrow_right: This project was developed as an activity of the ACAMICA DATA SCIENCE course.
